@@ -1,3 +1,5 @@
+
+
 /**
  * This file contains the functions needed for the inline editing of posts.
  *

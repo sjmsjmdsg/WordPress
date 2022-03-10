@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Header with centered logo block pattern

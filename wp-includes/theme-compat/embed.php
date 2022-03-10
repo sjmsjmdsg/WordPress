@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Contains the post embed base template

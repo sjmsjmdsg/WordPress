@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Text-only header with salmon background block pattern

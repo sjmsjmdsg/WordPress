@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Update Core administration panel.

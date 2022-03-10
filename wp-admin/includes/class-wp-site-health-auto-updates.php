@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Class for testing automatic updates in the WordPress code.

@@ -1,3 +1,5 @@
+
+
 /**
  * Contains global functions for the media upload within the post edit screen.
  *

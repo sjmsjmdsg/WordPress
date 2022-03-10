@@ -1,3 +1,5 @@
+
+
 /**
  * Thin jQuery.ajax wrapper for WP REST API requests.
  *

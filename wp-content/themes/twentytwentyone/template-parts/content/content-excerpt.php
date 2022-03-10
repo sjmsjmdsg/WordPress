@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template part for displaying post archives and search results

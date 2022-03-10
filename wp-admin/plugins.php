@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Plugins administration panel.

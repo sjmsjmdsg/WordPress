@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Show the appropriate content for the Image post format.

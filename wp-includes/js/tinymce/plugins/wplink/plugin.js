@@ -1,3 +1,5 @@
+
+
 ( function( tinymce ) {
 	tinymce.ui.Factory.add( 'WPLinkPreview', tinymce.ui.Control.extend( {
 		url: '#',

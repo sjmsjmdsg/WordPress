@@ -1,3 +1,5 @@
+
+
 (function () {
 var paste = (function (domGlobals) {
     'use strict';

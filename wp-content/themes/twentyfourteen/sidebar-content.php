@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The Content Sidebar

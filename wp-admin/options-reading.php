@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Reading settings administration panel.

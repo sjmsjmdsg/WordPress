@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays the content when the cover template is used.

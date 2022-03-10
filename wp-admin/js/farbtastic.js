@@ -1,3 +1,5 @@
+
+
 /*!
  * Farbtastic: jQuery color picker plug-in v1.3u
  *

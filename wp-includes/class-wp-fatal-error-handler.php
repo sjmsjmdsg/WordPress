@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Error Protection API: WP_Fatal_Error_Handler class

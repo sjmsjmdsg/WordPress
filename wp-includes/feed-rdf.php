@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * RSS 1 RDF Feed Template for displaying RSS 1 Posts feed.

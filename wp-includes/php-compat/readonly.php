@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Conditionally declares a `readonly()` function, which was renamed

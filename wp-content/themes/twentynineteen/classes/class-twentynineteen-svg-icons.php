@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * SVG Icons class

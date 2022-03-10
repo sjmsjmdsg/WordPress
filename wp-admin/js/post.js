@@ -1,3 +1,5 @@
+
+
 /**
  * @file Contains all dynamic functionality needed on post and term pages.
  *

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Block Pattern Directory REST API: WP_REST_Pattern_Directory_Controller class

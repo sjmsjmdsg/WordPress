@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Footer with query, featured images, title, and citation

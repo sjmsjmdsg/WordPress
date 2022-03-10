@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Creates common globals for the rest of WordPress

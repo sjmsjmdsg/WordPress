@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Writing settings administration panel.

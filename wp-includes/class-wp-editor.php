@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Facilitates adding of the WordPress editor as used on the Write and Edit screens.

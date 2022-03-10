@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The template for displaying Author archive pages

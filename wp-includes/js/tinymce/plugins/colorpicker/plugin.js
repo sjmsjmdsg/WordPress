@@ -1,3 +1,5 @@
+
+
 (function () {
 var colorpicker = (function () {
     'use strict';

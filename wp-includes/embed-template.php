@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Back-compat placeholder for the base embed template

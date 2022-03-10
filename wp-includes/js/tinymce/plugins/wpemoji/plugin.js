@@ -1,3 +1,5 @@
+
+
 ( function( tinymce ) {
 	tinymce.PluginManager.add( 'wpemoji', function( editor ) {
 		var typing,

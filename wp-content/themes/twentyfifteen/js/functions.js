@@ -1,3 +1,5 @@
+
+
 /* global screenReaderText */
 /**
  * Theme functions file.

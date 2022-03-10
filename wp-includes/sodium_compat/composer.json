@@ -1,3 +1,5 @@
+
+
 {
   "name": "paragonie/sodium_compat",
   "description": "Pure PHP implementation of libsodium; uses the PHP extension if it exists",

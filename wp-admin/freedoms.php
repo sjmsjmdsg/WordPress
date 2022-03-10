@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Your Rights administration panel.

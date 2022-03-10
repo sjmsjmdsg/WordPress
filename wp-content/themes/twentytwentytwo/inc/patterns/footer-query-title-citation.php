@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Footer with query, title, and citation

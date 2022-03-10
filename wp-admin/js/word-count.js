@@ -1,3 +1,5 @@
+
+
 /**
  * Word or character counting functionality. Count words or characters in a
  * provided text string.

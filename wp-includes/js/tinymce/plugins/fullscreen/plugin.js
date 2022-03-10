@@ -1,3 +1,5 @@
+
+
 (function () {
 var fullscreen = (function (domGlobals) {
     'use strict';

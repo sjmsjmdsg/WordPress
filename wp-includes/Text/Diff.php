@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * General API for generating and formatting diffs - the differences between

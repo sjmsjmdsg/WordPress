@@ -1,3 +1,5 @@
+
+
 /* global plupload, pluploadL10n, ajaxurl, post_id, wpUploaderInit, deleteUserSetting, setUserSetting, getUserSetting, shortform */
 var topWin = window.dialogArguments || opener || parent || top, uploader, uploader_init;
 

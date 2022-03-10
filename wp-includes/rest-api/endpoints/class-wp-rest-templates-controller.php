@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * REST API: WP_REST_Templates_Controller class

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template for displaying posts in the Status Post Format

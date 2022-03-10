@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * List Table API: WP_Privacy_Requests_Table class

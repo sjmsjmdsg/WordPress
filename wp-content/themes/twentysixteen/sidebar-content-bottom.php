@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The template for the content bottom widget areas on posts and pages

@@ -1,3 +1,5 @@
+
+
 /*
  * imgAreaSelect jQuery plugin
  * version 0.9.10-wp

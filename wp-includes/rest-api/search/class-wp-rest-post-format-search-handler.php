@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * REST API: WP_REST_Post_Format_Search_Handler class

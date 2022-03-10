@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Header with tagline block pattern

@@ -1,3 +1,5 @@
+
+
 (function($){
 	$.fn.filter_visible = function(depth) {
 		depth = depth || 3;

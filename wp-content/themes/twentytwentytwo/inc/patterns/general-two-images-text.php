@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Two images with text block pattern

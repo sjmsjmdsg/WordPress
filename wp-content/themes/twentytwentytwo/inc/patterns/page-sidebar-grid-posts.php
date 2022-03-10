@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Grid of posts with left sidebar block pattern

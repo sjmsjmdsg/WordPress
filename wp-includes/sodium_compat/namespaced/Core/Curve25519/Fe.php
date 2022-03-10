@@ -1,3 +1,5 @@
+
+
 <?php
 namespace ParagonIE\Sodium\Core\Curve25519;
 

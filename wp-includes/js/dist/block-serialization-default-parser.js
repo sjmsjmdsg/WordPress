@@ -1,3 +1,5 @@
+
+
 this["wp"] = this["wp"] || {}; this["wp"]["blockSerializationDefaultParser"] =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache

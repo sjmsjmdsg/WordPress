@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template canvas file to render the current 'wp_template'.

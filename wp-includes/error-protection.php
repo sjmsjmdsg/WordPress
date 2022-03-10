@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Error Protection API: Functions

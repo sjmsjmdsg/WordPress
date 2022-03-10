@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * HTTPS detection functions.

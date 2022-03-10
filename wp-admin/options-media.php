@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Media settings administration panel.

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Header with image background block pattern

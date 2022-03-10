@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * WordPress Imagick Image Editor

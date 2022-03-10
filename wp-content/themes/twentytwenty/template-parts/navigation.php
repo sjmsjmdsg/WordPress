@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays the next and previous post navigation in single posts.

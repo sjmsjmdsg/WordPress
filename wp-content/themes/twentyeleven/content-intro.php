@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template for displaying page content in the showcase.php page template

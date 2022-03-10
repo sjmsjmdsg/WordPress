@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Multisite upgrade administration panel.

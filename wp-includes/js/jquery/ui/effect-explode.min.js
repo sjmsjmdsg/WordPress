@@ -1,3 +1,5 @@
+
+
 /*!
  * jQuery UI Effects Explode 1.13.1
  * http://jqueryui.com

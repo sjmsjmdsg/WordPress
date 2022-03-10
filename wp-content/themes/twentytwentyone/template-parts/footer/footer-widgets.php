@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays the footer widget area.

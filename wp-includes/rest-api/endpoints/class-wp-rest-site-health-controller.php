@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * REST API: WP_REST_Site_Health_Controller class

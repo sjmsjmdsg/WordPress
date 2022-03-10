@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * kses 0.2.2 - HTML/XHTML filter that only allows some elements and attributes

@@ -1,3 +1,5 @@
+
+
 (function () {
 var textcolor = (function () {
     'use strict';

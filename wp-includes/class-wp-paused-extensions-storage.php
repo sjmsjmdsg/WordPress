@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Error Protection API: WP_Paused_Extensions_Storage class

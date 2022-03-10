@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays header media

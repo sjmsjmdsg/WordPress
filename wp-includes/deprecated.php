@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Deprecated functions from past WordPress versions. You shouldn't use these

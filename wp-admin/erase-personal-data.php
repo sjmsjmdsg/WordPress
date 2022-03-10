@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Privacy tools, Erase Personal Data screen.

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Colors block support flag.

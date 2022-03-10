@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Video with header and details block pattern

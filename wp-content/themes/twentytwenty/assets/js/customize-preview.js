@@ -1,3 +1,5 @@
+
+
 /* global twentyTwentyBgColors, twentyTwentyPreviewEls, jQuery, _, wp */
 /**
  * Customizer enhancements for a better user experience.

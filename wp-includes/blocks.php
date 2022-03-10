@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Functions related to registering and parsing blocks.

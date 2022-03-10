@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Handles Comment Post to WordPress and prevents duplicate comment posting.

@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Custom background script.

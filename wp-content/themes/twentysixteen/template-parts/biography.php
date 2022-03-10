@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The template part for displaying an Author biography

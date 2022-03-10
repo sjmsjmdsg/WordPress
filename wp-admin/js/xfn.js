@@ -1,3 +1,5 @@
+
+
 /**
  * Generates the XHTML Friends Network 'rel' string from the inputs.
  *

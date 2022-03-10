@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Border block support flag.

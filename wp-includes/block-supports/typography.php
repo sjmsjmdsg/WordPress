@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Typography block support flag.

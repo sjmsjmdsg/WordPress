@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Server-side rendering of the `core/legacy-widget` block.

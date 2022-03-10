@@ -1,3 +1,5 @@
+
+
 /*
  * Thickbox 3.1 - One Box To Rule Them All.
  * By Cody Lindley (http://www.codylindley.com)

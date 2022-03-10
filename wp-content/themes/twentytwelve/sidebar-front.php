@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The sidebar containing the front page widget areas

@@ -1,3 +1,5 @@
+
+
 <?php
 
 if (!is_callable('sodium_crypto_stream_xchacha20')) {

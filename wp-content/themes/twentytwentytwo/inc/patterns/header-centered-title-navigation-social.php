@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Centered header with navigation, social links, and salmon background block pattern

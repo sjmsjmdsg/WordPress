@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Authentication provider interface

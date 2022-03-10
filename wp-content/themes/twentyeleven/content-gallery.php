@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template for displaying posts in the Gallery Post Format

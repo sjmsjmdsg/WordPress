@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template used to display Tag Archive pages

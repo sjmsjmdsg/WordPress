@@ -1,3 +1,5 @@
+
+
 function toggleDarkMode() { // jshint ignore:line
 	var toggler = document.getElementById( 'dark-mode-toggler' );
 

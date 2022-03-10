@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template for displaying all single posts

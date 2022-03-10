@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Non-latin language handling.

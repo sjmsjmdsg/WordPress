@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Sidebar template containing the primary and secondary widget areas

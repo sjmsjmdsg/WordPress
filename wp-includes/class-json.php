@@ -1,3 +1,5 @@
+
+
 <?php
 _deprecated_file( basename( __FILE__ ), '5.3.0', '', 'The PHP native JSON extension is now a requirement.' );
 

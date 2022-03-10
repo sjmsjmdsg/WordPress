@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * SVG icons related functions

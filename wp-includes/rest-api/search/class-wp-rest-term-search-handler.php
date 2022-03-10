@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * REST API: WP_REST_Term_Search_Handler class

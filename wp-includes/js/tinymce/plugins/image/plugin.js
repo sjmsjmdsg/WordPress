@@ -1,3 +1,5 @@
+
+
 (function () {
 var image = (function (domGlobals) {
     'use strict';

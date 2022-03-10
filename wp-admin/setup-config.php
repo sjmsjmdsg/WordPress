@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Retrieves and creates the wp-config.php file.

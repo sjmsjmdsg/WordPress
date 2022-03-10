@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Template part for displaying image posts

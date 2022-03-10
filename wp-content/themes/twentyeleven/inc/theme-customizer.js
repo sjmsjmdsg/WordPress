@@ -1,3 +1,5 @@
+
+
 ( function( $ ){
 	wp.customize( 'blogname', function( value ) {
 		value.bind( function( to ) {

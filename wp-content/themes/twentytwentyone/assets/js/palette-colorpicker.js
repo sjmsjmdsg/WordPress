@@ -1,3 +1,5 @@
+
+
 /**
  * Script for our custom colorpicker control.
  *

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays the search icon and modal

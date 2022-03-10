@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Divider with image and color (dark) block pattern

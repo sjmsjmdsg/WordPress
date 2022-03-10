@@ -1,3 +1,5 @@
+
+
 (function($) {
 	$( function() {
 	    $('.feature-slider a').on( 'click', function(e) {

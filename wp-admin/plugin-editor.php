@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Edit plugin file editor administration panel.

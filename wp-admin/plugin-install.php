@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Install plugin administration panel.

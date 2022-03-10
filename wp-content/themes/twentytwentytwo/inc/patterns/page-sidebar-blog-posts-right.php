@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Blog posts with right sidebar block pattern

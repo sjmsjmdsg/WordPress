@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Customize API: WP_Sidebar_Block_Editor_Control class.

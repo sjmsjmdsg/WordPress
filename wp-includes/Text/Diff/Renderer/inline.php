@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * "Inline" diff renderer.

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Poster with right sidebar block pattern

@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Theme file editor administration panel.

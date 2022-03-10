@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Footer with social links and copyright

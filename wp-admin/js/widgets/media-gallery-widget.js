@@ -1,3 +1,5 @@
+
+
 /**
  * @output wp-admin/js/widgets/media-gallery-widget.js
  */

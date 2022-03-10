@@ -1,3 +1,5 @@
+
+
 // element-closest | CC0-1.0 | github.com/jonathantneal/closest
 
 (function (ElementProto) {

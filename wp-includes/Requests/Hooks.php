@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Handles adding and dispatching events

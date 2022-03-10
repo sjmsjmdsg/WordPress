@@ -1,3 +1,5 @@
+
+
 /**
  * Attempt to re-color SVG icons used in the admin menu or the toolbar
  *

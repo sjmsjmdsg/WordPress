@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Session handler for persistent requests and default parameters

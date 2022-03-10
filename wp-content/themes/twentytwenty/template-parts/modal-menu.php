@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays the menu icon and modal

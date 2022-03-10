@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Layered images with duotone block pattern

@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Widget API: WP_Widget_Custom_HTML class

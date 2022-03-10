@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Common theme functions

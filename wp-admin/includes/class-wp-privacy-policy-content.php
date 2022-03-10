@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * WP_Privacy_Policy_Content class.

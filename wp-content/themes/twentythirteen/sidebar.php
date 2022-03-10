@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The sidebar containing the secondary widget area

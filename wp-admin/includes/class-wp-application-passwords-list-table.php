@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * List Table API: WP_Application_Passwords_List_Table class

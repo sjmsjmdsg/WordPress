@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Wide image with introduction and buttons block pattern

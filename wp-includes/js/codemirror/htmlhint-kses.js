@@ -1,3 +1,5 @@
+
+
 /* global HTMLHint */
 /* eslint no-magic-numbers: ["error", { "ignore": [0, 1] }] */
 HTMLHint.addRule({

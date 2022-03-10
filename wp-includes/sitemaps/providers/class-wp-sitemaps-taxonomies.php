@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Sitemaps: WP_Sitemaps_Taxonomies class

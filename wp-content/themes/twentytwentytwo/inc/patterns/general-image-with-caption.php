@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Image with caption block pattern

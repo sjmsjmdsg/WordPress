@@ -1,3 +1,5 @@
+
+
 === Twenty Nineteen ===
 Contributors: wordpressdotorg
 Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready, block-patterns

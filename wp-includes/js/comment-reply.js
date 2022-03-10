@@ -1,3 +1,5 @@
+
+
 /**
  * Handles the addition of the comment form.
  *

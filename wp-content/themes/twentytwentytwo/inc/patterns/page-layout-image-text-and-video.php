@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Page layout with image, text and video.

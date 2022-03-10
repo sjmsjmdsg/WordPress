@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Privacy Settings Screen.

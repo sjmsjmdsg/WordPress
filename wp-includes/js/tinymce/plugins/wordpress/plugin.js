@@ -1,3 +1,5 @@
+
+
 /* global getUserSetting, setUserSetting */
 ( function( tinymce ) {
 // Set the minimum value for the modals z-index higher than #wpadminbar (100000).

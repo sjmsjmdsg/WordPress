@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Duotone block support flag.

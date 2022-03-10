@@ -1,3 +1,5 @@
+
+
 /* global tinymce */
 /**
  * Included for back-compat.

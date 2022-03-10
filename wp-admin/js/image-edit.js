@@ -1,3 +1,5 @@
+
+
 /**
  * The functions necessary for editing images.
  *

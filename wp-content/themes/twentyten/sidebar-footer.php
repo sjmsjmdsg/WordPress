@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The Footer widget areas

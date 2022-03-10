@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Edit Term Administration Screen.

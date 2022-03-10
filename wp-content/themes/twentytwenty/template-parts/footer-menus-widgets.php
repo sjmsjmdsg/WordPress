@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Displays the menus and widgets at the end of the main element.

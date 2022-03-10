@@ -1,3 +1,5 @@
+
+
 /* global colorScheme, Color */
 /**
  * Add a listener to the Color Scheme control to update other color controls to new values/defaults.

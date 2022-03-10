@@ -1,3 +1,5 @@
+
+
 /**
  * Text pattern plugin for TinyMCE
  *

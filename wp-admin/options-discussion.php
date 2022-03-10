@@ -1,3 +1,7 @@
+
+
+
+
 <?php
 /**
  * Discussion settings administration panel.

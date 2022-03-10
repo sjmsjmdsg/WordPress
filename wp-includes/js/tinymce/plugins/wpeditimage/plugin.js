@@ -1,3 +1,5 @@
+
+
 /* global tinymce */
 tinymce.PluginManager.add( 'wpeditimage', function( editor ) {
 	var toolbar, serializer, touchOnImage, pasteInCaption,

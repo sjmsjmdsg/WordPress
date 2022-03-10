@@ -1,3 +1,5 @@
+
+
 /* global twentytwentyoneIsDarkMode, setTimeout */
 
 // Check the color scheme preference and inject the classes if necessary.

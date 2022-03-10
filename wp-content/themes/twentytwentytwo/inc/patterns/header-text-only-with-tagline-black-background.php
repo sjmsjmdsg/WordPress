@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Text-only header with tagline and black background block pattern

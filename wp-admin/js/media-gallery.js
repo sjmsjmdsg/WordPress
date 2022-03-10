@@ -1,3 +1,5 @@
+
+
 /**
  * This file is used on media-upload.php which has been replaced by media-new.php and upload.php
  *

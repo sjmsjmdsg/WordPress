@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Classes, which help reading streams of data from files.

@@ -1,3 +1,5 @@
+
+
 /* global _wpmejsSettings, MediaElementPlayer */
 
 (function ($, _, Backbone) {
